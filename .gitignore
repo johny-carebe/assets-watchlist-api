@@ -1,0 +1,12 @@
+.elixir_ls/
+*.beam
+*.ez
+/_build
+/.fetch
+/config/*.secret.exs
+/cover
+/deps
+/doc
+/tmp/
+assets_watchlist_api-*.tar
+erl_crash.dump
